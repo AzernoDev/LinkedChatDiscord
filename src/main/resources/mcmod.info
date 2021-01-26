@@ -1,0 +1,16 @@
+[
+{
+  "modid": "linkedchatdiscord",
+  "name": "Linked Chat Discord",
+  "description": "Permet de voir le chat minecraft dans un channel discord personnalisé et inversement",
+  "version": "${1.0}",
+  "mcversion": "${1.12.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Azern0"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
