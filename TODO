@@ -1,0 +1,6 @@
+/*
+* TODO: - Trouver une solution pour le rate limit de discord car le serveur timeout
+*       - Récuperer les messages envoyés sur le channel discord
+*       - Envoyer les messages sur le serveur minecraft
+*       - Traiter les messages reçus de discord et les envoyer dans le tchat
+* */
